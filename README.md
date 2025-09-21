@@ -58,7 +58,7 @@ After finishing all levels, your stats are recorded:
 You can view the top 10 scores on the leaderboard screen.
 
 
-[![Watch the video](menu_bg.png)](https://vimeo.com/manage/videos/1120648579)
+[![Watch the video](imgs/menu_bg.png)](https://vimeo.com/manage/videos/1120648579)
 
 
 
