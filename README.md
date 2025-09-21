@@ -21,6 +21,7 @@ Obstacles are randomly generated on the track path (except in Level 1). They var
 
 ## 🧠 Features
 
+-This game features a dynamic environment where time gradually darkens the screen, car speed increases with higher levels, obstacles become more frequent, and tracks grow more challenging as you progress.
 - Multiple racing levels with unique paths and layouts.
 - Dynamic obstacle placement per level.
 - Night-time effect that darkens the screen progressively.
